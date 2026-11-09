@@ -1,0 +1,3 @@
+# Upload zips built by build-claude-ai-zips.sh. They contain other people's
+# skill files, so they are never committed.
+dist/
